@@ -18,3 +18,6 @@ impulseadventure/GUIslice@^0.17.0
     `#define ADATOUCH_X_MAX    3871`  
     `#define ADATOUCH_Y_MIN    3871`  
     `#define ADATOUCH_Y_MAX    338`  
+    
+# 备注
+1. 使用GUIslice Builder，Text需要设置External Storage Size，否则gslc_ElemSetTxtStr函数不起作用
