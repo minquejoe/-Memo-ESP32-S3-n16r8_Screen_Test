@@ -23,18 +23,19 @@ impulseadventure/GUIslice@^0.17.0
 1. 使用GUIslice Builder，Text需要设置External Storage Size，否则gslc_ElemSetTxtStr函数不起作用
 
 # 屏幕接线
-T_IRQ           7  
-T_DO           13 
-T_DIN          11  
-T_CS           16  
-T_CLK          12  
-
-SDO\<MISO\>    13  
-LED           3V3  
-SCK            12  
-SDI\<MOSI\>    11  
-DC              7  
-RESET           6  
-CS             10  
-GND           GND  
-VCC           3V3  
+| 屏幕引脚 | ESP32引脚 |
+| --- | --- |
+|T_IRQ|7|
+|T_DO|13|
+|T_DIN|11|
+|T_CS|16|
+|T_CLK|12|
+|SDO\<MISO\>|13|
+|LED|3V3|
+|SCK|12|
+|SDI\<MOSI\>|11|
+|DC|7|
+|RESET|6|
+|CS|10|
+|GND|GND|
+|VCC|3V3|
