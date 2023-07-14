@@ -42,4 +42,4 @@ impulseadventure/GUIslice@^0.17.0
 
 # 测试
 screen_test.zip内的头文件与主文件直接放入src文件夹
-![](/assets/screen_test.gif)
+![](screen_test.gif)
