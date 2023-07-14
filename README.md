@@ -38,7 +38,9 @@ impulseadventure/GUIslice@^0.17.0
 |RESET|6|
 |CS|10|
 |GND|GND|
-|VCC|3V3|  
+|VCC|3V3| 
+
+#
 ![](触摸屏ILI9341.jpg)
 
 # 测试
