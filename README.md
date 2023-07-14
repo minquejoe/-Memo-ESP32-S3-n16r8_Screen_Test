@@ -1,5 +1,5 @@
 # -Memo-ESP32-S3-n16r8_Screen_Test
-记录使用EPS32-S3-DevKitC-1与ILI9341作为显示驱动，XPT2046作为触控驱动的tft显示屏使用方法。亦可参考[此处](https://blog.csdn.net/zgj_online/article/details/104992395)
+记录使用EPS32-S3-DevKitC-1与ILI9341作为显示驱动，XPT2046作为触控驱动的tft显示屏使用方法。亦可参考[此处](https://blog.csdn.net/zgj_online/article/details/104992395)  
 
 # 驱动库
 bodmer/TFT_eSPI@^2.5.30  
@@ -38,8 +38,9 @@ impulseadventure/GUIslice@^0.17.0
 |RESET|6|
 |CS|10|
 |GND|GND|
-|VCC|3V3|
+|VCC|3V3|  
+![](触摸屏ILI9341.jpg)
 
 # 测试
-screen_test.zip内的头文件与主文件直接放入src文件夹
+screen_test.zip内的头文件与主文件直接放入src文件夹  
 ![](screen_test.gif)
