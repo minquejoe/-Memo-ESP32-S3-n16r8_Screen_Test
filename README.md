@@ -42,4 +42,4 @@ impulseadventure/GUIslice@^0.17.0
 
 # 测试
 screen_test.zip内的头文件与主文件直接放入src文件夹
-<iframe width="854" height="480" src="https://github.com/minquejoe/-Memo-ESP32-S3-n16r8_Screen_Test/blob/main/screen_test.mp4" frameborder="0" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/53994787/253483639-e4769b37-1eda-4746-8568-80a4c6663e03.mp4
