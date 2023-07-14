@@ -39,3 +39,7 @@ impulseadventure/GUIslice@^0.17.0
 |CS|10|
 |GND|GND|
 |VCC|3V3|
+
+# 测试
+screen_test.zip内的头文件与主文件直接放入src文件夹
+https://github.com/minquejoe/-Memo-ESP32-S3-n16r8_Screen_Test/blob/main/screen_test.mp4
